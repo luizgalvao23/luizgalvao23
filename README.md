@@ -1,0 +1,4 @@
+- 👋 Olá, parça! Meu nome é Luiz Augusto!
+- 👀 Atualmente trabalho como Suporte desde 2020, mas com projetos em ser Dev em 2022;
+- 🌱 Aprendendo sobre programação em Java, Python e ReactJS;
+- :camera: @oiluuiz
